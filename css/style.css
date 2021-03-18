@@ -3,6 +3,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-size: 40px;
+    color: white;
 }
 
 /* Utility CSS*/
@@ -15,7 +17,7 @@
 #page_container{
     background-color: lightcoral;
     width: 80%;
-    height: 1500px;
+    /* height: 1500px; */
     margin: auto;
 }
 
@@ -59,22 +61,30 @@
 
 .container_content{
     background-color: black;
-    height: 500px;
     width: 100%;
 }
 .sidebar_left, .sidebar_right{
     background-color: springgreen;
-    height: 200px;
     width: 20%;
     float: left;
 }
 
 .content{
     background-color: darkgreen;
-    height: 200px;
     width: 60%;
     float: left;
 }
+
+.imm_left, .imm_right, .imm_central{
+    background-color: orange;
+    height: 200px;
+}
+
+
+.description_imm{
+    background-color: plum;
+}
+
 /* /Main CSS */
 
 /* Footer CSS */
