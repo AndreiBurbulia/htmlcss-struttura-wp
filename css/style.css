@@ -12,10 +12,29 @@
     clear: both;
 }
 
+#page_container{
+    background-color: lightcoral;
+    width: 80%;
+    height: 1000px;
+    margin: auto;
+}
+
 /* /Utility CSS*/
 
 
 /* Header CSS */
+
+.page_logo{
+    background-color: black;
+    height: 100px;
+    width: 200px;
+}
+
+.navigation_voice{
+    background-color: grey;
+    height: 50px;
+    width: 100%;
+}
 /* /Header CSS */
 
 /* Main CSS */
