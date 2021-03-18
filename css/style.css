@@ -15,7 +15,7 @@
 #page_container{
     background-color: lightcoral;
     width: 80%;
-    height: 1000px;
+    height: 1500px;
     margin: auto;
 }
 
@@ -38,9 +38,51 @@
 /* /Header CSS */
 
 /* Main CSS */
+
+.big_photo{
+    background-color: cyan;
+    height: 500px;
+    width: 100%;
+}
+
+.photo_description{
+    background-color: blue;
+    height: 20%;
+    width: 50%;
+}
+
+.title_content{
+    background-color: red;
+    height: 100px;
+    width: 100%;
+}
+
+.container_content{
+    background-color: black;
+    height: 500px;
+    width: 100%;
+}
+.sidebar_left, .sidebar_right{
+    background-color: springgreen;
+    height: 200px;
+    width: 20%;
+    float: left;
+}
+
+.content{
+    background-color: darkgreen;
+    height: 200px;
+    width: 60%;
+    float: left;
+}
 /* /Main CSS */
 
 /* Footer CSS */
+
+#site_footer{
+    background-color: purple;
+    height: 100px;
+}
 /* /Footer CSS */
 
 
