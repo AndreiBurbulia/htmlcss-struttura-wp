@@ -1,12 +1,30 @@
+/* Azzeratore margini e padding */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+/* Utility CSS*/
 .clearfix::after{
     content: "";
     display: table;
     clear: both;
 }
+
+/* /Utility CSS*/
+
+
+/* Header CSS */
+/* /Header CSS */
+
+/* Main CSS */
+/* /Main CSS */
+
+/* Footer CSS */
+/* /Footer CSS */
+
+
+
+
 
